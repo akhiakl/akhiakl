@@ -4,7 +4,7 @@
  - Engineer
  - Gamer
 
-An enthusiastic Full-Stack JavaScript Developer with more than 3 years of successful experience in Angular2+, NodeJS, MongoDB, Mysql, HTML & CSS3, Javascript and hands-on experience in React, React Native, AWS, Jest, Wordpress and Codeigniter.
+An enthusiastic Full-Stack JavaScript Developer with around 4 years of successful experience in Angular2+, NodeJS, MongoDB, Mysql, HTML & CSS3, Javascript and hands-on experience in React, React Native, AWS, Jest, Wordpress and Codeigniter.
 
 
 - 💞️ I’m looking to collaborate on any interestin g open source Javascript projects
