@@ -5,7 +5,6 @@
  - Gamer
 
 An enthusiastic Full-Stack JavaScript Developer with around 4 years of successful experience in Angular2+, NodeJS, MongoDB, Mysql, HTML & CSS3, Javascript and hands-on experience in React, React Native, AWS, Jest, and Wordpress.
-Cancel changes
 
 [akhiakl.me](https://akhiakl.me)
 
