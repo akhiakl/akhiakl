@@ -1,4 +1,4 @@
-👋 Hi, I’m Akhi
+👋 Hi, I’m Akhil
  
  - Artist
  - Engineer
