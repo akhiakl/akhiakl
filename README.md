@@ -10,6 +10,6 @@ An enthusiastic Full Stack Developer with a proven track record of 6 years speci
 [akhiakl.in](https://www.akhiakl.in/)
 
 - 💞️ I’m looking to collaborate on any interesting open source Javascript projects
-- 📫 Reach me on akhilk4k@outlook.com
+- 📫 Reach me on akhilk4k@gmail.com
 
 [Stack overflow](https://stackoverflow.com/story/akhiakl) [Twitter](https://twitter.com/akhiakl) [Linkedin](https://www.linkedin.com/in/akhiakl/)
