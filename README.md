@@ -1,6 +1,6 @@
 ### Hi, I'm Akhil 👋
 
-**Lead Experience Engineer at Publicis Sapient (Corra)** · 8+ years · Kerala, India
+**Lead Experience Engineer at Publicis Sapient (Corra)** · 9+ years · Kerala, India
 
 I lead frontend architecture for large commerce platforms: setting technical direction, running platform migrations, and building the patterns and tooling that let multiple teams ship safely.
 
@@ -8,21 +8,26 @@ I lead frontend architecture for large commerce platforms: setting technical dir
 
 ### What I've led
 
-- **Platform migrations** for Omantel, GNC, Movado, Giblib and Man with a Van. Owned the architecture, migration plan and rollout. <!-- add one outcome each: e.g. "LCP 4.1s to 1.8s", "zero-downtime cutover", "build time -60%" -->
-- **GM Tires program**: frontend lead on a headless commerce build. <!-- scope: team size, traffic, key decision you drove -->
-- **Engineering standards**: code review conventions, component architecture and performance budgets adopted across teams. <!-- name a concrete artifact: RFC, starter, lint config -->
+- **Platform migrations** for a Middle Eastern telecom provider, a global watch brand, a health and wellness retailer and a medical education platform. Owned the architecture, migration plan and rollout.
+- **Shopify migration** for a global automotive company's tire store, as frontend lead.
+- **Performance work** that brought LCP, FCP and TTI down by up to 40% on client sites.
+- **Engineering standards**: code review conventions, component architecture and performance budgets adopted across teams.
 - **Hiring and mentoring**: interviewer for engineering candidates; mentor to engineers growing into senior roles.
 
 ---
 
-### Open source & side projects
+### Things I've built
 
-| Project | What it shows |
-|---|---|
-| [svgIn-react](https://github.com/akhiakl/svgIn-react) | Secure SVG inlining for React. Sanitization, API design, library packaging |
-| [skills](https://github.com/akhiakl/skills) | Agent Skills for AI coding assistants, incl. `web-design-craft` |
-| StoreBridge | Shopify embedded app for multi-store sync. Webhooks, background jobs, data consistency |
-| RouteAtlas | Next.js travel route mapping. Rendering strategy, map performance |
+<!-- PROJECTS:START -->
+| Project | What it is | |
+|---|---|---|
+| [**svgin**](https://github.com/akhiakl/svgin) | Fetch an SVG from a URL and render it as a real, styleable React element or web component, sanitized by default, works in RSC and the browser. | [Live ↗](https://svgin.vercel.app/)<br>JavaScript |
+| [**skills**](https://github.com/akhiakl/skills) | Agent Skills that help AI coding assistants build better web and mobile UIs | JavaScript |
+| [**grand-tour**](https://github.com/akhiakl/grand-tour) | Plan a trip as an interactive route map, with AI route suggestions and shareable links | [Live ↗](https://grand-tour.akhiakl.in)<br>TypeScript |
+| [**shopify-store-bridge**](https://github.com/akhiakl/shopify-store-bridge) | Shopify embedded app that keeps products in sync across multiple stores | [Live ↗](https://shopify-storebridge.vercel.app)<br>TypeScript |
+| [**poof-log**](https://github.com/akhiakl/poof-log) | Development-only global debug() for Node.js: file:line logs to stdout and a temp log file that deletes itself on exit. | TypeScript |
+| [**tickd**](https://github.com/akhiakl/tickd) | A shared daily checklist for your group. Tick your list, watch the wall fill in, don't be the one with the gap. | [Live ↗](https://tickd.akhiakl.in/)<br>TypeScript |
+<!-- PROJECTS:END -->
 
 ---
 
