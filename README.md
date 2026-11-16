@@ -22,10 +22,10 @@ I lead frontend architecture for large commerce platforms: setting technical dir
 | Project | What it is | |
 |---|---|---|
 | [**svgin**](https://github.com/akhiakl/svgin) | Fetch an SVG from a URL and render it as a real, styleable React element or web component, sanitized by default, works in RSC and the browser. | [Live ↗](https://svgin.vercel.app/)<br>JavaScript |
+| [**poof-log**](https://github.com/akhiakl/poof-log) | Development-only global debug() for Node.js: file:line logs to stdout and a temp log file that deletes itself on exit. | TypeScript |
 | [**drawmytrip**](https://github.com/akhiakl/drawmytrip) | Plan a trip as an interactive route map, with AI route suggestions and shareable links | [Live ↗](https://drawmytrip.vercel.app)<br>TypeScript |
 | [**skills**](https://github.com/akhiakl/skills) | Agent Skills that help AI coding assistants build better web and mobile UIs | JavaScript |
 | [**shopify-store-bridge**](https://github.com/akhiakl/shopify-store-bridge) | Shopify embedded app that keeps products in sync across multiple stores | [Live ↗](https://shopify-storebridge.vercel.app)<br>TypeScript |
-| [**poof-log**](https://github.com/akhiakl/poof-log) | Development-only global debug() for Node.js: file:line logs to stdout and a temp log file that deletes itself on exit. | TypeScript |
 | [**tickd**](https://github.com/akhiakl/tickd) | A shared daily checklist for your group. Tick your list, watch the wall fill in, don't be the one with the gap. | [Live ↗](https://tickd.akhiakl.in/)<br>TypeScript |
 <!-- PROJECTS:END -->
 
